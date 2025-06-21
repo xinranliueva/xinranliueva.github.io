@@ -22,10 +22,10 @@ repository               : "xinranliueva/xinranliueva.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xinran23.jpg"
   name             : "Xinran Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Computer Science"
+  bio              : "Ph.D. in Computer Science"
   location         : "Nashville"
   employer         : "Vanderbilt University"
   uri              : # URL
