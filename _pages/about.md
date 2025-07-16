@@ -14,7 +14,7 @@ I’d be more than happy to connect if you’re interested in my research or pot
 
 ### News
 
-  - [06/02/2025]
+  - [06/05/2025]
      Our latest preprint "[Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts](https://arxiv.org/abs/2506.05577)" is available on arxiv.
   - [06/02/2025]
      The preprint "[Constrained Sliced Wasserstein Embedding](https://arxiv.org/abs/2506.02203)" is available on arxiv.
