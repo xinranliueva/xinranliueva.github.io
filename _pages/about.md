@@ -13,13 +13,15 @@ Welcome! I am a final-year Ph.D. candidate in Computer Science at [Vanderbilt Un
 ### News
 
   - [06/02/2025]
-     Our latest preprint "[Constrained Sliced Wasserstein Embedding](https://arxiv.org/abs/2506.02203)" is available on arxiv.
+     Our latest preprint "[Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts](https://arxiv.org/abs/2506.05577)" is available on arxiv.
+  - [06/02/2025]
+     The preprint "[Constrained Sliced Wasserstein Embedding](https://arxiv.org/abs/2506.02203)" is available on arxiv.
   - [04/29/2025]
-     Our paper "[ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://openreview.net/pdf?id=Uq70mJuUB8)" was accepted at ICML 2025!
+     Our paper "[ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://openreview.net/pdf?id=Uq70mJuUB8)" got accepted at ICML 2025!
   - [02/11/2025]
      We had three papers accepted at ICLR 2025! Among them, the "[Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data](https://openreview.net/pdf?id=fgUFZAxywx)" was selected as Spotlight!
   - [10/25/2024]
-     Our paper "[Wasserstein task embedding for measuring task similarities](https://www.sciencedirect.com/science/article/pii/S0893608024007202)" was published at the Neural [Networks Journal](https://www.sciencedirect.com/journal/neural-networks)!
+     Our paper "[Wasserstein task embedding for measuring task similarities](https://www.sciencedirect.com/science/article/pii/S0893608024007202)" was published at the [Neural Networks Journal](https://www.sciencedirect.com/journal/neural-networks)!
 
 
   
