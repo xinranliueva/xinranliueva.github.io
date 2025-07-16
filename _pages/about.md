@@ -12,6 +12,8 @@ Welcome! I am a final-year Ph.D. candidate in Computer Science at [Vanderbilt Un
 
 ### News
 
+  - [06/02/2025]
+     Our latest preprint "[Constrained Sliced Wasserstein Embedding](https://arxiv.org/abs/2506.02203)" is available on arxiv.
   - [04/29/2025]
      Our paper "[ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://openreview.net/pdf?id=Uq70mJuUB8)" was accepted at ICML 2025!
   - [02/11/2025]
