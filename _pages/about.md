@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a final-year Ph.D. candidate in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Soheil Kolouri](https://skolouri.github.io/). I am passionate about developing machine learning methods that balance theoretical rigor with practical effectiveness. My current research focuses on improving the efficiency and robustness of Optimal Transport, and on extending classical formulations to non-Euclidean settings. Prior to starting my Ph.D., I obtained an M.S. in mathematics from Vanderbilt University in 2021 and a B.S. in mathematics from [Chongqing University](https://english.cqu.edu.cn/) in 2019. 
+Welcome! I am a final-year Ph.D. candidate in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Soheil Kolouri](https://skolouri.github.io/). I’m passionate about developing machine learning methods that unite theoretical rigor with real-world impact. My current research focuses on enhancing the efficiency and robustness of Optimal Transport, and on extending classical formulations to non-Euclidean settings. Prior to starting my Ph.D., I obtained an M.S. in mathematics from Vanderbilt University in 2021 and a B.S. in mathematics from [Chongqing University](https://english.cqu.edu.cn/) in 2019. 
 
 I’d be more than happy to connect if you’re interested in my research or potential collaborations! The best way to reach me is by email.
 
