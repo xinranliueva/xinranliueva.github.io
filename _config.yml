@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xinran Liu"
+title                    : "Xinran Liu Vanderbilt"
 title_separator          : "-"
-name                     : &name "Xinran Liu"
+name                     : &name "Xinran (Eva) Liu"
 description              : &description "Ph.D. candidate in Computer Science"
 url                      : https://xinranliueva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
