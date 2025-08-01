@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xinran Liu Vanderbilt"
+title                    : "Xinran (Eva) Liu"
 title_separator          : "-"
 name                     : &name "Xinran (Eva) Liu"
 description              : &description "Ph.D. candidate in Computer Science"
