@@ -8,14 +8,18 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ZHz5VScAAAAJ&hl=en)
 
 ## Preprints
-- Nath, S., Peridis, C., Benjamin, E., Liu, X., Kolouri, S., Kinnell, P., Li, Z., Liu, C., Dora, S. and Soltoggio, A. Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts. arXiv preprint arXiv:2506.05577. ([link](https://arxiv.org/abs/2506.05577))
 
+- Liu, X., Sharma, S.D. and Kolouri, S., 2025. EMPEROR: Efficient Moment-Preserving Representation of Distributions. arXiv preprint arXiv:2509.16379. ([link](https://arxiv.org/abs/2509.16379))
+  
 - NaderiAlizadeh, N., Salehi, D., Liu, X. and Kolouri, S. Constrained Sliced Wasserstein Embedding. arXiv preprint arXiv:2506.02203. ([link](https://arxiv.org/abs/2506.02203))
   
 - Bai, Y., Tran, H., Du, H., Liu, X. and Kolouri, S. Fused Partial Gromov-Wasserstein for Structured Objects. arXiv preprint arXiv:2502.09934. ([link](https://arxiv.org/abs/2502.09934))
 
 
 ## Conference and Journal Publications
+
+- Nath, S., Peridis, C., Benjamin, E., Liu, X., Kolouri, S., Kinnell, P., Li, Z., Liu, C., Dora, S. and Soltoggio, A. Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems. In: The Fortieth AAAI Conference on Artificial Intelligence (AAAI). ([link](https://arxiv.org/abs/2506.05577))
+
 - Liu, X., Bai, Y., Lu, Y., Soltoggio, A., & Kolouri, S. Wasserstein task embedding for measuring task similarities. Neural Networks, 181, 106796. ([link](https://www.sciencedirect.com/science/article/pii/S0893608024007202))
   
 - Shahbazi, A., Akbari, E., Salehi, D., Liu, X., Naderializadeh, N. and Kolouri, S. ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans. In: The Forty-Second International Conference on Machine Learning (ICML) ([link](https://openreview.net/pdf?id=Uq70mJuUB8))
