@@ -14,6 +14,8 @@ I’d be more than happy to connect if you’re interested in my research or pot
 
 ### News
   
+  - [12/10/2025]
+     I am happy to announce that I have been awarded the Russell G. Hamilton Graduate Leadership Institute Dissertation Enhancement Grant!
   - [11/07/2025]
      Our paper "[Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/pdf/2506.05577)" got accepted at AAAI 2026!
   - [09/19/2025]
