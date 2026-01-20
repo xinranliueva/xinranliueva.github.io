@@ -13,21 +13,20 @@ I’d be more than happy to connect if you’re interested in my research or pot
 
 
 ### News
-  
+
+
+  - [01/19/2026]
+     Our paper "[EMPEROR: Efficient Moment-Preserving Representation of Distributions](https://arxiv.org/pdf/2509.16379)" was accepted at ICASSP2026!
   - [12/10/2025]
      I am happy to announce that I have been awarded the Russell G. Hamilton Graduate Leadership Institute Dissertation Enhancement Grant at Vanderbilt!
   - [11/07/2025]
      Our paper "[Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/pdf/2506.05577)" got accepted at AAAI 2026!
-  - [09/19/2025]
-     Our latest preprint "[EMPEROR: Efficient Moment-Preserving Representation of Distributions](https://arxiv.org/pdf/2509.16379)" is available on arxiv.
   - [06/02/2025]
      The preprint "[Constrained Sliced Wasserstein Embedding](https://arxiv.org/abs/2506.02203)" is available on arxiv.
   - [04/29/2025]
      Our paper "[ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://openreview.net/pdf?id=Uq70mJuUB8)" got accepted at ICML 2025!
-  - [02/11/2025]
-     We had three papers accepted at ICLR 2025! Among them, the "[Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data](https://openreview.net/pdf?id=fgUFZAxywx)" was selected as Spotlight!
-  - [10/25/2024]
-     Our paper "[Wasserstein task embedding for measuring task similarities](https://www.sciencedirect.com/science/article/pii/S0893608024007202)" was published at the [Neural Networks Journal](https://www.sciencedirect.com/journal/neural-networks)!
+  - [02/11/2025] We had three papers accepted at ICLR 2025! Among them, the "[Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data](https://openreview.net/pdf?id=fgUFZAxywx)" was selected as Spotlight!
+  
 
 
   
