@@ -9,14 +9,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-- Liu, X., Sharma, S.D. and Kolouri, S., 2025. EMPEROR: Efficient Moment-Preserving Representation of Distributions. arXiv preprint arXiv:2509.16379. ([link](https://arxiv.org/abs/2509.16379))
+- Liu, X., Akbari, E., Martin, R.D., NaderiAlizadeh, N. and Kolouri, S., 2025. Efficient Transferable Optimal Transport via Min-Sliced Transport Plans. arXiv preprint arXiv:2511.19741. ([link](https://arxiv.org/abs/2511.19741))
+
+- Shahbazi, A., He, P., Abbasi, A., Bai, Y., Liu, X., Akbari, E., Salehi, D., NaderiAlizadeh, N. and Kolouri, S., 2025. LUNA: Linear Universal Neural Attention with Generalization Guarantees. arXiv preprint arXiv:2512.08061. ([link](https://arxiv.org/abs/2512.08061))
   
 - NaderiAlizadeh, N., Salehi, D., Liu, X. and Kolouri, S. Constrained Sliced Wasserstein Embedding. arXiv preprint arXiv:2506.02203. ([link](https://arxiv.org/abs/2506.02203))
   
-- Bai, Y., Tran, H., Du, H., Liu, X. and Kolouri, S. Fused Partial Gromov-Wasserstein for Structured Objects. arXiv preprint arXiv:2502.09934. ([link](https://arxiv.org/abs/2502.09934))
-
 
 ## Conference and Journal Publications
+
+- Liu, X., Sharma, S.D. and Kolouri, S., 2026, May. EMPEROR: Efficient Moment-Preserving Representation of Distributions. In: ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2686-2690). IEEE. ([link](https://ieeexplore.ieee.org/abstract/document/11460890/))
 
 - Nath, S., Peridis, C., Benjamin, E., Liu, X., Kolouri, S., Kinnell, P., Li, Z., Liu, C., Dora, S. and Soltoggio, A. Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems. In: The Fortieth AAAI Conference on Artificial Intelligence (AAAI). ([link](https://arxiv.org/abs/2506.05577))
 
