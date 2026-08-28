@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Xinran (Eva) Liu"
 title_separator          : "-"
 name                     : &name "Xinran (Eva) Liu"
-description              : &description "Ph.D. candidate in Computer Science"
+description              : &description "Postdoc at Harvard University"
 url                      : https://xinranliueva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinranliueva/xinranliueva.github.io/"
@@ -26,10 +26,10 @@ author:
   name             : "Xinran Liu"
   pronouns         : # example: "she/her"  
   bio              : " Let all that you do be done in love. (1 Corinthians 16:14)"
-  location         : "Nashville"
-  employer         : "Vanderbilt University"
+  location         : "Boston"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "xinran.liu@vanderbilt.edu" 
+  email            : "xinranliu@hsph.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
