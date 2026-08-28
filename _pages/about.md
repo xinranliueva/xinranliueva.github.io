@@ -6,7 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a final-year Ph.D. candidate in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Soheil Kolouri](https://skolouri.github.io/). I’m passionate about developing machine learning methods that unite theoretical rigor with real-world impact. My current research focuses on enhancing the efficiency and robustness of Optimal Transport in machine learning applications, and on extending classical formulations to non-Euclidean settings. Prior to starting my Ph.D., I obtained an M.S. in mathematics from Vanderbilt University in 2021 and a B.S. in mathematics from [Chongqing University](https://english.cqu.edu.cn/) in 2019. 
+
+Welcome! I am a postdoctoral researcher in the [NSAPH](https://hsph.harvard.edu/research/air-pollution-health/) group at Harvard University. My research focuses on efficient and transferable AI for structured data, particularly computational optimal transport and geometric data analysis. I am passionate about developing mathematical AI frameworks to address real-world challenges, including climate and health adaptation.
+
+I obtained my Ph.D. in Computer Science from Vanderbilt University, where I had the privilege of being advised by [Dr. Soheil Kolouri](https://skolouri.github.io/). Before that, I received an M.S. in Mathematics from Vanderbilt University in 2021 and a B.S. in Mathematics from Chongqing University in 2019.
 
 I’d be more than happy to connect if you’re interested in my research or potential collaborations! The best way to reach me is by email.
 
@@ -14,9 +17,10 @@ I’d be more than happy to connect if you’re interested in my research or pot
 
 ### News
 
-
+  - [05/27/2026]
+     I have successfully defended my doctoral dissertation, Efficient Optimal Transport for Modern AI!
   - [01/19/2026]
-     Our paper "[EMPEROR: Efficient Moment-Preserving Representation of Distributions](https://arxiv.org/pdf/2509.16379)" was accepted at ICASSP2026!
+     Our paper "[EMPEROR: Efficient Moment-Preserving Representation of Distributions](https://arxiv.org/pdf/2509.16379)" was accepted at ICASSP 2026!
   - [12/10/2025]
      I am happy to announce that I have been awarded the Russell G. Hamilton Graduate Leadership Institute Dissertation Enhancement Grant at Vanderbilt!
   - [11/07/2025]
