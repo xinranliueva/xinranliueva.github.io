@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: "Xinran (Eva) Liu"
+description: "Xinran (Eva) Liu is a postdoctoral researcher at Harvard University (NSAPH), working on efficient and transferable AI for structured data, computational optimal transport, and geometric data analysis."
 author_profile: true
 redirect_from: 
   - /about/
