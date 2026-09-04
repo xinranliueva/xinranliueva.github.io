@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher in the [NSAPH](https://hsph.harvard.edu/research/air-pollution-health/) group at Harvard University. My research focuses on efficient and transferable AI for structured data, particularly computational optimal transport and geometric data analysis. I am passionate about developing mathematical AI frameworks to address real-world challenges, including climate and health adaptation.
+Welcome! I am a postdoctoral researcher in the [NSAPH](https://hsph.harvard.edu/research/air-pollution-health/) group at Harvard University, where I work with [Dr. Francesca Dominici](https://hsph.harvard.edu/profile/francesca-dominici/). My research focuses on efficient and transferable AI for structured data, particularly computational optimal transport and geometric data analysis. I am passionate about developing mathematical AI frameworks to address real-world challenges, including climate and health adaptation.
 
 I obtained my Ph.D. in Computer Science from Vanderbilt University, where I had the privilege of being advised by [Dr. Soheil Kolouri](https://skolouri.github.io/). Before that, I received an M.S. in Mathematics from Vanderbilt University in 2021 and a B.S. in Mathematics from Chongqing University in 2019.
 
